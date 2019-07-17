@@ -1,0 +1,22 @@
+{
+  "name": "tslint-import-subdirectories",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "Dmytro Maretskyi",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marik-D/tslint-import-subdirectories"
+  },
+  "bugs": {
+    "url": "https://github.com/Marik-D/tslint-import-subdirectories/issues"
+  },
+  "scripts": {
+    "prepublishOnly": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.6",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
+}
