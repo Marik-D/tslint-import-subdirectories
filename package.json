@@ -11,6 +11,11 @@
   "bugs": {
     "url": "https://github.com/Marik-D/tslint-import-subdirectories/issues"
   },
+  "files": [
+    "rules",
+    "index.json",
+    "UNLICENSE"
+  ],
   "scripts": {
     "prepublishOnly": "tsc"
   },
