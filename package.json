@@ -1,6 +1,6 @@
 {
   "name": "tslint-import-subdirectories",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.json",
   "author": "Dmytro Maretskyi",
   "license": "Unlicense",
